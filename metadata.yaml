@@ -1,0 +1,28 @@
+_repo: Stories-of-a-Western-Town_2949
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thanet, Octave
+    alias: French, Alice
+    birthdate: 1850
+    deathdate: 1934
+    gutenberg_agent_id: '1073'
+    url: http://www.gutenberg.org/2009/agents/1073
+description: ''
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+tableOfContents: The besetment of Kurt Lieders -- The face of failure -- Tommy and
+  Thomas -- Mother Emeritus -- An assisted providence -- Harry Lossing.
+title: Stories of a Western Town
+url: http://www.gutenberg.org/ebooks/2949
